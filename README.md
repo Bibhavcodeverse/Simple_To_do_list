@@ -30,8 +30,7 @@ This is a simple To-Do List application built using Python's Tkinter library. It
 
    ##
    Live Demo
-   [Live Demo]
-   (https://todoli.streamlit.app/)
+   [Live Demo](https://todoli.streamlit.app/)
 
 ## Usage
 
