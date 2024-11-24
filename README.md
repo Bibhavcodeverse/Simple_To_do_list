@@ -28,6 +28,10 @@ This is a simple To-Do List application built using Python's Tkinter library. It
    python todolist.py
    ```
 
+   ##
+   Live Demo
+   [Live Demo](https://todoli.streamlit.app/)
+
 ## Usage
 
 - Launch the app to start managing your to-do list.
